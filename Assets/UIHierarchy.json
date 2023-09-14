@@ -1,0 +1,608 @@
+{
+    "name": "Canvas",
+    "position": {
+        "x": 100.5,
+        "y": 200.0,
+        "z": 0.0
+    },
+    "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+    },
+    "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "componentNames": [
+        "RectTransform",
+        "Canvas",
+        "CanvasScaler",
+        "GraphicRaycaster",
+        "JsonCreator"
+    ],
+    "components": [
+        {
+            "name": "BG",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "componentNames": [
+                "RectTransform",
+                "CanvasRenderer",
+                "Image"
+            ],
+            "components": []
+        },
+        {
+            "name": "PlaceHolder",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "componentNames": [
+                "RectTransform"
+            ],
+            "components": []
+        },
+        {
+            "name": "SampleFormat",
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "componentNames": [
+                "RectTransform"
+            ],
+            "components": [
+                {
+                    "name": "Holder",
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    },
+                    "componentNames": [
+                        "RectTransform",
+                        "CanvasRenderer",
+                        "Image"
+                    ],
+                    "components": [
+                        {
+                            "name": "adTag",
+                            "position": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0
+                            },
+                            "color": {
+                                "r": 1.0,
+                                "g": 1.0,
+                                "b": 1.0,
+                                "a": 1.0
+                            },
+                            "componentNames": [
+                                "RectTransform"
+                            ],
+                            "components": []
+                        },
+                        {
+                            "name": "RawImage_adchoiceslcon",
+                            "position": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0
+                            },
+                            "color": {
+                                "r": 1.0,
+                                "g": 1.0,
+                                "b": 1.0,
+                                "a": 1.0
+                            },
+                            "componentNames": [
+                                "RectTransform"
+                            ],
+                            "components": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Padding",
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "color": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    },
+                    "componentNames": [
+                        "RectTransform"
+                    ],
+                    "components": [
+                        {
+                            "name": "Appdetails",
+                            "position": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0
+                            },
+                            "color": {
+                                "r": 1.0,
+                                "g": 1.0,
+                                "b": 1.0,
+                                "a": 1.0
+                            },
+                            "componentNames": [
+                                "RectTransform"
+                            ],
+                            "components": [
+                                {
+                                    "name": "AppIconHolder",
+                                    "position": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "rotation": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "scale": {
+                                        "x": 1.0,
+                                        "y": 1.0,
+                                        "z": 1.0
+                                    },
+                                    "color": {
+                                        "r": 1.0,
+                                        "g": 1.0,
+                                        "b": 1.0,
+                                        "a": 1.0
+                                    },
+                                    "componentNames": [
+                                        "RectTransform"
+                                    ],
+                                    "components": [
+                                        {
+                                            "name": "RawImage_adicon",
+                                            "position": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "rotation": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "scale": {
+                                                "x": 1.0,
+                                                "y": 1.0,
+                                                "z": 1.0
+                                            },
+                                            "color": {
+                                                "r": 1.0,
+                                                "g": 1.0,
+                                                "b": 1.0,
+                                                "a": 1.0
+                                            },
+                                            "componentNames": [
+                                                "RectTransform",
+                                                "Button"
+                                            ],
+                                            "components": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "AppInfo",
+                                    "position": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "rotation": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "scale": {
+                                        "x": 1.0,
+                                        "y": 1.0,
+                                        "z": 1.0
+                                    },
+                                    "color": {
+                                        "r": 1.0,
+                                        "g": 1.0,
+                                        "b": 1.0,
+                                        "a": 1.0
+                                    },
+                                    "componentNames": [
+                                        "RectTransform"
+                                    ],
+                                    "components": [
+                                        {
+                                            "name": "Text_adHeadline",
+                                            "position": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "rotation": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "scale": {
+                                                "x": 1.0,
+                                                "y": 1.0,
+                                                "z": 1.0
+                                            },
+                                            "color": {
+                                                "r": 1.0,
+                                                "g": 1.0,
+                                                "b": 1.0,
+                                                "a": 1.0
+                                            },
+                                            "componentNames": [
+                                                "RectTransform"
+                                            ],
+                                            "components": []
+                                        },
+                                        {
+                                            "name": "StarRating",
+                                            "position": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "rotation": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "scale": {
+                                                "x": 1.0,
+                                                "y": 1.0,
+                                                "z": 1.0
+                                            },
+                                            "color": {
+                                                "r": 1.0,
+                                                "g": 1.0,
+                                                "b": 1.0,
+                                                "a": 1.0
+                                            },
+                                            "componentNames": [
+                                                "RectTransform"
+                                            ],
+                                            "components": [
+                                                {
+                                                    "name": "fill",
+                                                    "position": {
+                                                        "x": 0.0,
+                                                        "y": 0.0,
+                                                        "z": 0.0
+                                                    },
+                                                    "rotation": {
+                                                        "x": 0.0,
+                                                        "y": 0.0,
+                                                        "z": 0.0
+                                                    },
+                                                    "scale": {
+                                                        "x": 1.0,
+                                                        "y": 1.0,
+                                                        "z": 1.0
+                                                    },
+                                                    "color": {
+                                                        "r": 1.0,
+                                                        "g": 1.0,
+                                                        "b": 1.0,
+                                                        "a": 1.0
+                                                    },
+                                                    "componentNames": [
+                                                        "RectTransform"
+                                                    ],
+                                                    "components": []
+                                                },
+                                                {
+                                                    "name": "outline",
+                                                    "position": {
+                                                        "x": 0.0,
+                                                        "y": 0.0,
+                                                        "z": 0.0
+                                                    },
+                                                    "rotation": {
+                                                        "x": 0.0,
+                                                        "y": 0.0,
+                                                        "z": 0.0
+                                                    },
+                                                    "scale": {
+                                                        "x": 1.0,
+                                                        "y": 1.0,
+                                                        "z": 1.0
+                                                    },
+                                                    "color": {
+                                                        "r": 1.0,
+                                                        "g": 1.0,
+                                                        "b": 1.0,
+                                                        "a": 1.0
+                                                    },
+                                                    "componentNames": [
+                                                        "RectTransform"
+                                                    ],
+                                                    "components": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "TextScore",
+                                            "position": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "rotation": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "scale": {
+                                                "x": 1.0,
+                                                "y": 1.0,
+                                                "z": 1.0
+                                            },
+                                            "color": {
+                                                "r": 1.0,
+                                                "g": 1.0,
+                                                "b": 1.0,
+                                                "a": 1.0
+                                            },
+                                            "componentNames": [
+                                                "RectTransform"
+                                            ],
+                                            "components": []
+                                        },
+                                        {
+                                            "name": "priceTxt",
+                                            "position": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "rotation": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "scale": {
+                                                "x": 1.0,
+                                                "y": 1.0,
+                                                "z": 1.0
+                                            },
+                                            "color": {
+                                                "r": 1.0,
+                                                "g": 1.0,
+                                                "b": 1.0,
+                                                "a": 1.0
+                                            },
+                                            "componentNames": [
+                                                "RectTransform",
+                                                "MeshRenderer",
+                                                "TextMesh"
+                                            ],
+                                            "components": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Text_body",
+                            "position": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0
+                            },
+                            "color": {
+                                "r": 1.0,
+                                "g": 1.0,
+                                "b": 1.0,
+                                "a": 1.0
+                            },
+                            "componentNames": [
+                                "RectTransform"
+                            ],
+                            "components": []
+                        },
+                        {
+                            "name": "Button_Cta",
+                            "position": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0
+                            },
+                            "color": {
+                                "r": 1.0,
+                                "g": 1.0,
+                                "b": 1.0,
+                                "a": 1.0
+                            },
+                            "componentNames": [
+                                "RectTransform"
+                            ],
+                            "components": [
+                                {
+                                    "name": "Text_CallToAction",
+                                    "position": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "rotation": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "scale": {
+                                        "x": 1.0,
+                                        "y": 1.0,
+                                        "z": 1.0
+                                    },
+                                    "color": {
+                                        "r": 1.0,
+                                        "g": 1.0,
+                                        "b": 1.0,
+                                        "a": 1.0
+                                    },
+                                    "componentNames": [
+                                        "RectTransform"
+                                    ],
+                                    "components": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
